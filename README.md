@@ -1054,7 +1054,7 @@ else
 fi
 ```
 ## OUTPUT 
-
+![image](https://github.com/user-attachments/assets/f67bef7a-ffc6-4ea4-9dbd-a4e5e268c45d)
 
 # RESULT:
 The Commands are executed successfully.
