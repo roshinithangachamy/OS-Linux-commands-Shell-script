@@ -352,11 +352,11 @@ tar -xvf backup.tarr
 
 gzip backup.tar
 
-ls .gz
-## OUTPUT
+ls .gz 
  
 gunzip backup.tar.gz
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/3c2bd1b8-20c1-489f-9e2c-a58b6f32059e)
 
  
 # Shell Script
