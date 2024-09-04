@@ -344,10 +344,11 @@ mv backup.tar backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
-
+![image](https://github.com/user-attachments/assets/d426cee1-da36-4f83-8bdf-38d604909122)
 
 tar -xvf backup.tarr
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/185109b5-a555-44f1-a4f5-336942f9e904)
 
 gzip backup.tar
 
@@ -378,6 +379,7 @@ stop
 
 cat herecheck.txt
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ebe47f51-c9fa-4037-a594-d19d9c811e7f)
 
 
 cat < scriptest.sh 
@@ -464,13 +466,11 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
-
-
+## OUTPUT
+![image](https://github.com/user-attachments/assets/de5e3456-715c-4644-9445-a969e2fcf325)
 
 chmod 755 strcomp.sh
- 
-./strcomp.sh 
+ ./strcomp.sh 
 ## OUTPUT
 
 
