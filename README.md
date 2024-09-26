@@ -1027,7 +1027,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ ![369747930-c92753e5-c24f-4736-b20a-8ed85bfdaeff](https://github.com/user-attachments/assets/0fcbab0c-68c8-40a4-9362-cfdf55846894)
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1054,7 +1055,8 @@ else
 fi
 ```
 ## OUTPUT 
-![image](https://github.com/user-attachments/assets/f67bef7a-ffc6-4ea4-9dbd-a4e5e268c45d)
+
+![369747944-378f9ac8-e25b-47cb-af40-7c43e8bf4c18](https://github.com/user-attachments/assets/f1265852-d44e-4df8-8cda-23dd04fadf1b)
 
 # RESULT:
 The Commands are executed successfully.
